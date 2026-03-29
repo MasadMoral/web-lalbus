@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Stops Map — DU Lal Bus</title>
+  <meta name="description" content="Interactive map of all Dhaka University bus stops. Filter by route to see a specific line's stops." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚌</text></svg>" />
+  <style>
+    /* Make map fill remaining height nicely */
+    .map-container { padding: 0 20px 60px; }
+    #map {
+      height: calc(100vh - 230px);
+      min-height: 440px;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar">
+  <a href="index.html" class="nav-brand">
+    <div class="bus-icon">🚌</div>
+    <div>DU <span>Lal Bus</span></div>
+  </a>
+  <ul class="nav-links">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="schedule.html">Schedule</a></li>
+    <li><a href="stops.html">Stops Map</a></li>
+    <li><a href="search.html">Search</a></li>
+  </ul>
+  <button class="nav-mobile-btn" id="navMobileBtn">☰</button>
+</nav>
+
+<div class="page-wrap">
+  <div class="page-header">
+    <div class="container">
+      <h1>🗺️ Stops Map</h1>
+      <p>All <span id="stopCount">—</span> DU bus stops on an interactive map. Click any marker for route info.</p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="filter-bar" style="padding-top:0">
+      <select class="filter-select" id="routeFilter" style="max-width:260px">
+        <option value="all">Show All Routes</option>
+      </select>
+      <div class="map-info-bar" style="padding:0;margin-left:8px">
+        <span class="map-dot"></span>
+        <span>Click a stop marker to see which routes serve it.</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="map-container">
+    <div id="map"></div>
+  </div>
+</div>
+
+<footer class="footer">
+  <p>DU Lal Bus Info · Map tiles by <a href="https://carto.com/" target="_blank">CARTO</a> / <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors</p>
+</footer>
+
+<script src="data/routes.js"></script>
+<script src="data/stops.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/app.js"></script>
+<script src="js/stops.js"></script>
+</body>
+</html>
