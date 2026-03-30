@@ -38,7 +38,7 @@
     </div>
     <div class="hero-stats">
       <div class="stat-item">
-        <div class="stat-num">16</div>
+        <div class="stat-num" id="statRoutes">16</div>
         <div class="stat-label">Bus Routes</div>
       </div>
       <div class="stat-item">
@@ -136,6 +136,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.getElementById('statTrips').textContent = totalTrips;
   document.getElementById('statStops').textContent = Object.keys(STOP_COORDS).length;
+  document.getElementById('statRoutes').textContent = DU_ROUTES.length;
 });
 </script>
 </body>
