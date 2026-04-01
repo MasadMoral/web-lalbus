@@ -26,133 +26,155 @@ const DU_ROUTES = [
     "schedule": [
       {
         "time": "6:25 AM",
-        "busNo": "সিঙ্গেল ডেকার",
+        "busNo": "",
+        "busType": "সিঙ্গেল ডেকার",
         "dir": "up",
         "from": "ভবেরচর"
       },
       {
         "time": "6:50 AM",
-        "busNo": "ডাবল",
+        "busNo": "",
+        "busType": "ডাবল",
         "dir": "up",
         "from": "কাঁচপুর"
       },
       {
         "time": "7:10 AM",
-        "busNo": "সিঙ্গেল",
+        "busNo": "",
+        "busType": "সিঙ্গেল",
         "dir": "up",
         "from": "মোগড়াপাড়া"
       },
       {
         "time": "7:30 AM",
-        "busNo": "ডাবল",
+        "busNo": "",
+        "busType": "ডাবল",
         "dir": "up",
         "from": "মোগড়াপাড়া"
       },
       {
         "time": "7:40 AM",
-        "busNo": "সিঙ্গেল  (স্টাফ বাস)",
+        "busNo": "",
+        "busType": "সিঙ্গেল  (স্টাফ বাস)",
         "dir": "up",
         "from": "ভবেরচর"
       },
       {
         "time": "7:55 AM",
-        "busNo": "ডাবল (স্টাফ বাস)",
+        "busNo": "",
+        "busType": "ডাবল (স্টাফ বাস)",
         "dir": "up",
         "from": "কাঁচপুর"
       },
       {
         "time": "8:20 AM",
-        "busNo": "সিঙ্গেল",
+        "busNo": "",
+        "busType": "সিঙ্গেল",
         "dir": "up",
         "from": "কাঁচপুর"
       },
       {
         "time": "8:40 AM",
-        "busNo": "ডাবল",
+        "busNo": "",
+        "busType": "ডাবল",
         "dir": "up",
         "from": "কাঁচপুর"
       },
       {
         "time": "9:00 AM",
-        "busNo": "সিঙ্গেল",
+        "busNo": "",
+        "busType": "সিঙ্গেল",
         "dir": "up",
         "from": "মাতুয়াইল"
       },
       {
         "time": "9:30 AM",
-        "busNo": "সিঙ্গেল",
+        "busNo": "",
+        "busType": "সিঙ্গেল",
         "dir": "up",
         "from": "মোগড়াপাড়া"
       },
       {
         "time": "10:00 AM",
-        "busNo": "সিঙ্গেল",
+        "busNo": "",
+        "busType": "সিঙ্গেল",
         "dir": "up",
         "from": "মাতুয়াইল"
       },
       {
         "time": "12:20 PM",
-        "busNo": "সিঙ্গেল ডেকার",
+        "busNo": "",
+        "busType": "সিঙ্গেল ডেকার",
         "dir": "down",
         "from": "ভিসি চত্বর - কাঁচপুর"
       },
       {
         "time": "1:35 PM",
-        "busNo": "সিঙ্গেল",
+        "busNo": "",
+        "busType": "সিঙ্গেল",
         "dir": "down",
         "from": "সিনেট - ভবেরচর"
       },
       {
         "time": "1:35 PM",
-        "busNo": "ডাবল",
+        "busNo": "",
+        "busType": "ডাবল",
         "dir": "down",
         "from": "ভিসি চত্বর - কাঁচপুর"
       },
       {
         "time": "2:30 PM",
-        "busNo": "ডাবল",
+        "busNo": "",
+        "busType": "ডাবল",
         "dir": "down",
         "from": "ভিসি চত্বর - কাঁচপুর"
       },
       {
         "time": "3:30 PM",
-        "busNo": "সিঙ্গেল",
+        "busNo": "",
+        "busType": "সিঙ্গেল",
         "dir": "down",
         "from": "ভিসি চত্বর - মোগড়াপাড়া"
       },
       {
         "time": "4:10 PM",
-        "busNo": "সিঙ্গেল",
+        "busNo": "",
+        "busType": "সিঙ্গেল",
         "dir": "down",
         "from": "ভিসি চত্বর - কাঁচপুর"
       },
       {
         "time": "4:40 PM",
-        "busNo": "ডাবল",
+        "busNo": "",
+        "busType": "ডাবল",
         "dir": "down",
         "from": "ভিসি চত্বর - কাঁচপুর"
       },
       {
         "time": "5:05 PM",
-        "busNo": "সিঙ্গেল (স্টাফ বাস)",
+        "busNo": "",
+        "busType": "সিঙ্গেল (স্টাফ বাস)",
         "dir": "down",
         "from": "সিনেট - ভবেরচর"
       },
       {
         "time": "5:10 PM",
-        "busNo": "ডাবল (স্টাফ বাস)",
+        "busNo": "",
+        "busType": "ডাবল (স্টাফ বাস)",
         "dir": "down",
         "from": "ভিসি চত্বর - কাঁচপুর"
       },
       {
         "time": "5:35 PM",
-        "busNo": "ডাবল",
+        "busNo": "",
+        "busType": "ডাবল",
         "dir": "down",
         "from": "ভিসি চত্বর - মোগড়াপাড়া"
       },
       {
         "time": "8:00 PM",
-        "busNo": "ডাবল",
+        "busNo": "",
+        "busType": "ডাবল",
         "dir": "down",
         "from": "ভিসি চত্বর - মোগড়াপাড়া"
       }
@@ -189,114 +211,133 @@ const DU_ROUTES = [
       {
         "time": "6:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "শিববাড়ি"
       },
       {
         "time": "6:20 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "কলেজগেইট"
       },
       {
         "time": "6:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "শিববাড়ি"
       },
       {
         "time": "6:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "কলেজগেইট"
       },
       {
         "time": "7:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "কলেজগেইট"
       },
       {
         "time": "7:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "শিববাড়ি"
       },
       {
         "time": "7:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "কলেজগেইট"
       },
       {
         "time": "8:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "শিববাড়ি"
       },
       {
         "time": "8:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "কলেজগেইট"
       },
       {
         "time": "9:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "কলেজগেইট"
       },
       {
         "time": "12:15 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "কার্জন -কলেজগেইট"
       },
       {
         "time": "1:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "কার্জন-শিববাড়ি"
       },
       {
         "time": "1:50 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর-কলেজগেট"
       },
       {
         "time": "2:45 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর-শিববাড়ি"
       },
       {
         "time": "3:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "কার্জন-কলেজগেট"
       },
       {
         "time": "4:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর-শিববাড়ি"
       },
       {
         "time": "4:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর-কলেজগেট"
       },
       {
         "time": "5:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "কার্জন-শিববাড়ি"
       },
       {
         "time": "5:40 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "কার্জন -কলেজগেইট"
       }
@@ -326,96 +367,112 @@ const DU_ROUTES = [
       {
         "time": "7:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মোহাম্মদপুর ক্লাব পার্ক"
       },
       {
         "time": "7:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মোহাম্মদপুর ক্লাব পার্ক"
       },
       {
         "time": "8:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মোহাম্মদপুর ক্লাব পার্ক"
       },
       {
         "time": "8:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মোহাম্মদপুর ক্লাব পার্ক"
       },
       {
         "time": "9:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মোহাম্মদপুর ক্লাব পার্ক"
       },
       {
         "time": "10:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মোহাম্মদপুর ক্লাব পার্ক"
       },
       {
         "time": "10:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মোহাম্মদপুর ক্লাব পার্ক"
       },
       {
         "time": "12:30 PM",
-        "busNo": "Single Deck",
+        "busNo": "",
+        "busType": "Single Deck",
         "dir": "down",
         "from": "Curzon Hall"
       },
       {
         "time": "1:15 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "Curzon Hall"
       },
       {
         "time": "2:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "Curzon Hall"
       },
       {
         "time": "3:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "Curzon Hall"
       },
       {
         "time": "3:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "Curzon Hall"
       },
       {
         "time": "4:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "Curzon Hall"
       },
       {
         "time": "4:40 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "Curzon Hall"
       },
       {
         "time": "5:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "Curzon Hall"
       },
       {
         "time": "5:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "Curzon Hall"
       }
@@ -441,90 +498,105 @@ const DU_ROUTES = [
       {
         "time": "6:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "হারুন মোল্লার মাঠ"
       },
       {
         "time": "7:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "হারুন মোল্লার মাঠ"
       },
       {
         "time": "7:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "হারুন মোল্লার মাঠ"
       },
       {
         "time": "7:50 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "হারুন মোল্লার মাঠ"
       },
       {
         "time": "9:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "হারুন মোল্লার মাঠ"
       },
       {
         "time": "9:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "হারুন মোল্লার মাঠ"
       },
       {
         "time": "10:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "হারুন মোল্লার মাঠ"
       },
       {
         "time": "10:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "হারুন মোল্লার মাঠ"
       },
       {
         "time": "12:20 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "মল চত্ত্বর"
       },
       {
         "time": "1:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "মল চত্ত্বর"
       },
       {
         "time": "2:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "CURZON HALL"
       },
       {
         "time": "3:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "CURZON HALL"
       },
       {
         "time": "4:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "মল চত্ত্বর"
       },
       {
         "time": "5:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "CURZON HALL"
       },
       {
         "time": "5:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "CURZON HALL"
       }
@@ -552,91 +624,106 @@ const DU_ROUTES = [
     "schedule": [
       {
         "time": "6:40 AM",
-        "busNo": "5900",
+        "busNo": "",
+        "busType": "5900",
         "dir": "up",
         "from": "কচুক্ষেত"
       },
       {
         "time": "7:00 AM",
-        "busNo": "5817",
+        "busNo": "",
+        "busType": "5817",
         "dir": "up",
         "from": "মিলি সুপার মার্কেট"
       },
       {
         "time": "7:30 AM",
-        "busNo": "5867",
+        "busNo": "",
+        "busType": "5867",
         "dir": "up",
         "from": "মিলি সুপার মার্কেট"
       },
       {
         "time": "8:00 AM",
-        "busNo": "6231",
+        "busNo": "",
+        "busType": "6231",
         "dir": "up",
         "from": "মিলি সুপার মার্কেট"
       },
       {
         "time": "8:45 AM",
-        "busNo": "6204",
+        "busNo": "",
+        "busType": "6204",
         "dir": "up",
         "from": "মিলি সুপার মার্কেট"
       },
       {
         "time": "9:25 AM",
-        "busNo": "6264",
+        "busNo": "",
+        "busType": "6264",
         "dir": "up",
         "from": "মিলি সুপার মার্কেট"
       },
       {
         "time": "10:00 AM",
-        "busNo": "5900",
+        "busNo": "",
+        "busType": "5900",
         "dir": "up",
         "from": "মিলি সুপার মার্কেট"
       },
       {
         "time": "12:30 PM",
-        "busNo": "6231",
+        "busNo": "",
+        "busType": "6231",
         "dir": "down",
         "from": "কার্জন হল"
       },
       {
         "time": "1:15 PM",
-        "busNo": "5817",
+        "busNo": "",
+        "busType": "5817",
         "dir": "down",
         "from": "কার্জন হল"
       },
       {
         "time": "2:20 PM",
-        "busNo": "6204",
+        "busNo": "",
+        "busType": "6204",
         "dir": "down",
         "from": "কার্জন হল"
       },
       {
         "time": "3:30 PM",
-        "busNo": "5900",
+        "busNo": "",
+        "busType": "5900",
         "dir": "down",
         "from": "কার্জন হল"
       },
       {
         "time": "4:15 PM",
-        "busNo": "5866",
+        "busNo": "",
+        "busType": "5866",
         "dir": "down",
         "from": "কার্জন হল"
       },
       {
         "time": "4:45 PM",
-        "busNo": "5899",
+        "busNo": "",
+        "busType": "5899",
         "dir": "down",
         "from": "কার্জন হল"
       },
       {
         "time": "5:30 PM",
-        "busNo": "6231",
+        "busNo": "",
+        "busType": "6231",
         "dir": "down",
         "from": "কার্জন হল"
       },
       {
         "time": "8:00 PM",
-        "busNo": "6204",
+        "busNo": "",
+        "busType": "6204",
         "dir": "down",
         "from": "কার্জন হল"
       }
@@ -654,90 +741,105 @@ const DU_ROUTES = [
       {
         "time": "7:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মুগদা স্টেডিয়াম"
       },
       {
         "time": "7:20 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মুগদা স্টেডিয়াম"
       },
       {
         "time": "7:55 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মুগদা গার্মেন্টস"
       },
       {
         "time": "8:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মুগদা স্টেডিয়াম"
       },
       {
         "time": "9:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মুগদা স্টেডিয়াম"
       },
       {
         "time": "10:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মুগদা স্টেডিয়াম"
       },
       {
         "time": "10:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "মুগদা স্টেডিয়াম"
       },
       {
         "time": "12:15 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "1:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "2:20 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "3:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "3:40 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "4:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "5:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "5:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       }
@@ -755,84 +857,98 @@ const DU_ROUTES = [
       {
         "time": "7:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "পোস্তগোলা"
       },
       {
         "time": "8:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "পোস্তগোলা"
       },
       {
         "time": "8:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "পোস্তগোলা"
       },
       {
         "time": "9:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "পোস্তগোলা"
       },
       {
         "time": "9:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "পোস্তগোলা"
       },
       {
         "time": "10:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "পোস্তগোলা"
       },
       {
         "time": "12:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "1:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "2:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "3:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "4:15 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "5:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "5:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "7:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       }
@@ -855,66 +971,77 @@ const DU_ROUTES = [
       {
         "time": "7:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:50 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:50 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "12:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "1:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "2:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "3:20 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "4:20 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "5:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "5:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
@@ -936,66 +1063,77 @@ const DU_ROUTES = [
       {
         "time": "7:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "7:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:20 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "10:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "12:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "1:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "2:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "3:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "4:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       },
       {
         "time": "5:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর"
       }
@@ -1028,66 +1166,77 @@ const DU_ROUTES = [
       {
         "time": "6:25 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "আই. ই. টি স্কুল"
       },
       {
         "time": "7:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "আই. ই. টি স্কুল"
       },
       {
         "time": "8:00 AM",
-        "busNo": "Staff bus",
+        "busNo": "",
+        "busType": "Staff bus",
         "dir": "up",
         "from": "রানীমহল"
       },
       {
         "time": "8:20 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "আই. ই. টি স্কুল"
       },
       {
         "time": "9:20 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "আই. ই. টি স্কুল"
       },
       {
         "time": "12:15 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর-আই. ই. টি স্কুল"
       },
       {
         "time": "1:15 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর-আই. ই. টি স্কুল"
       },
       {
         "time": "2:15 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর-আই. ই. টি স্কুল"
       },
       {
         "time": "3:35 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্বর-আই. ই. টি স্কুল"
       },
       {
         "time": "5:05 PM",
-        "busNo": "Staff bus",
+        "busNo": "",
+        "busType": "Staff bus",
         "dir": "down",
         "from": "ভিসি চত্বর-রানীমহল"
       },
       {
         "time": "5:15 PM",
-        "busNo": "Staff bus",
+        "busNo": "",
+        "busType": "Staff bus",
         "dir": "down",
         "from": "ভিসি চত্বর-আই. ই. টি স্কুল"
       }
@@ -1109,49 +1258,57 @@ const DU_ROUTES = [
     "schedule": [
       {
         "time": "6:50 AM",
-        "busNo": "4168",
+        "busNo": "",
+        "busType": "4168",
         "dir": "up",
         "from": "NARAYANGONJ"
       },
       {
         "time": "7:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "NARAYANGONJ"
       },
       {
         "time": "8:50 AM",
-        "busNo": "14-0064",
+        "busNo": "",
+        "busType": "14-0064",
         "dir": "up",
         "from": "NARAYANGONJ"
       },
       {
         "time": "9:50 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "NARAYANGONJ"
       },
       {
         "time": "1:05 PM",
-        "busNo": "14-0064",
+        "busNo": "",
+        "busType": "14-0064",
         "dir": "down",
         "from": "মল চত্ত্বর"
       },
       {
         "time": "2:30 PM",
-        "busNo": "08-0035",
+        "busNo": "",
+        "busType": "08-0035",
         "dir": "down",
         "from": "মল চত্ত্বর"
       },
       {
         "time": "4:05 PM",
-        "busNo": "4168",
+        "busNo": "",
+        "busType": "4168",
         "dir": "down",
         "from": "মল চত্ত্বর"
       },
       {
         "time": "5:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "ভিসি চত্ত্বর"
       }
@@ -1194,42 +1351,49 @@ const DU_ROUTES = [
       {
         "time": "6:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "লিংক রোড"
       },
       {
         "time": "7:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "নতুনবাজার"
       },
       {
         "time": "8:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "নতুনবাজার"
       },
       {
         "time": "1:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "মলচত্বর"
       },
       {
         "time": "2:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "মলচত্বর"
       },
       {
         "time": "4:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "মলচত্বর"
       },
       {
         "time": "5:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "মলচত্বর"
       }
@@ -1247,42 +1411,49 @@ const DU_ROUTES = [
       {
         "time": "6:10 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "7:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "7:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "1:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "3:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "5:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
@@ -1299,25 +1470,29 @@ const DU_ROUTES = [
     "schedule": [
       {
         "time": "6:20 AM",
-        "busNo": "11-0061",
+        "busNo": "",
+        "busType": "11-0061",
         "dir": "up",
         "from": ""
       },
       {
         "time": "6:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": "বারৈচা"
       },
       {
         "time": "2:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "MOLL CHATTAR"
       },
       {
         "time": "4:45 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": "MOLL CHATTAR"
       }
@@ -1335,12 +1510,14 @@ const DU_ROUTES = [
       {
         "time": "6:35 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "3:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
@@ -1358,12 +1535,14 @@ const DU_ROUTES = [
       {
         "time": "6:35 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "3:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
@@ -1379,90 +1558,105 @@ const DU_ROUTES = [
       {
         "time": "7:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "10:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "10:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "11:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "12:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "12:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "1:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "1:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "2:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "3:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "4:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
@@ -1480,84 +1674,98 @@ const DU_ROUTES = [
       {
         "time": "7:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "10:15 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "10:40 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "12:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "12:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "1:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "1:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "2:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "3:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "5:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
@@ -1575,54 +1783,63 @@ const DU_ROUTES = [
       {
         "time": "7:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "10:30 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "1:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "2:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "3:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "4:30 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "5:20 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
@@ -1640,36 +1857,42 @@ const DU_ROUTES = [
       {
         "time": "7:45 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "8:45 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:50 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "1:10 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "3:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "4:20 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
@@ -1685,24 +1908,28 @@ const DU_ROUTES = [
       {
         "time": "8:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "9:00 AM",
         "busNo": "",
+        "busType": "",
         "dir": "up",
         "from": ""
       },
       {
         "time": "1:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       },
       {
         "time": "4:00 PM",
         "busNo": "",
+        "busType": "",
         "dir": "down",
         "from": ""
       }
