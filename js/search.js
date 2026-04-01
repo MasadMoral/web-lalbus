@@ -13,44 +13,6 @@ document.addEventListener('DOMContentLoaded', () => {
     debounce = setTimeout(doSearch, 180);
   });
 
-  const SEARCH_ALIASES = {
-    'mirpur': 'মিরপুর',
-    'gulshan': 'গুলশান',
-    'tsc': 'টিএসসি',
-    'jatrabari': 'যাত্রাবাড়ী',
-    'badda': 'বাড্ডা',
-    'dhanmondi': 'ধানমন্ডি',
-    'abdullahpur': 'আব্দুল্লাপুর',
-    'kazipara': 'কাজীপাড়া',
-    'rampura': 'রামপুরা',
-    'khonika': 'খনিকা',
-    'choitali': 'চৈতালী',
-    'baishakhi': 'বৈশাখী',
-    'falguni': 'ফাল্গুনী',
-    'ananda': 'আনন্দ',
-    'basanta': 'বসন্ত',
-    'kuwait moitri': 'কুয়েত মৈত্রী',
-    'moitri': 'মৈত্রী',
-    'curzon': 'কার্জন',
-    'campus': 'ক্যাম্পাস',
-    'pharmgate': 'ফার্মগেট',
-    'shahbag': 'শাহবাগ',
-    'science lab': 'সায়েন্স ল্যাব',
-    'nilkhet': 'নীলক্ষেত',
-    'azimpur': 'আজিমপুর',
-    'mohammadpur': 'মোহাম্মদপুর',
-    'shyamoli': 'শ্যামলী',
-    'kallanpur': 'কল্যাণপুর',
-    'gabtoli': 'গাবতলী',
-    'moghbazar': 'মগবাজার',
-    'mouchak': 'মৌচাক',
-    'malibagh': 'মালিবাগ',
-    'khilgaon': 'খিলগাঁও',
-    'banasree': 'বনশ্রী',
-    'uttara': 'উত্তরা',
-    'airport': 'এয়ারপোর্ট'
-  };
-
   function doSearch() {
     let q = input.value.trim().toLowerCase();
 
@@ -59,23 +21,18 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    // Map English alias to Bengali if exists
-    const alias = SEARCH_ALIASES[q];
-    const searchTerms = [q];
-    if (alias) searchTerms.push(alias);
-
     resultsWrap.style.display = 'block';
 
-    // Search routes by name
+    // Search routes by name (case-insensitive for safety, though primarily Bangla)
     const routeMatches = DU_ROUTES.filter(r =>
-      searchTerms.some(term => r.nameEn.toLowerCase().includes(term) || r.nameBn.includes(term))
+      r.nameEn.toLowerCase().includes(q) || r.nameBn.toLowerCase().includes(q)
     );
 
     // Search routes by stop name
     const stopMatches = [];
     DU_ROUTES.forEach(r => {
       const matchingStops = r.stops.filter(s => 
-        searchTerms.some(term => s.toLowerCase().includes(term))
+        s.toLowerCase().includes(q)
       );
       if (matchingStops.length && !routeMatches.includes(r)) {
         stopMatches.push({ route: r, matchingStops });
