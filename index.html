@@ -134,8 +134,11 @@ document.addEventListener('DOMContentLoaded', () => {
     grid.appendChild(card);
   });
 
+  const uniqueStops = new Set();
+  DU_ROUTES.forEach(r => r.stops.forEach(s => uniqueStops.add(s)));
+  
   document.getElementById('statTrips').textContent = totalTrips;
-  document.getElementById('statStops').textContent = Object.keys(STOP_COORDS).length;
+  document.getElementById('statStops').textContent = uniqueStops.size;
   document.getElementById('statRoutes').textContent = DU_ROUTES.length;
 });
 </script>

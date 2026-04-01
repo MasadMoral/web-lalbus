@@ -34,14 +34,20 @@ function getUpcomingTrips(schedule, n = 5) {
   const current = now.getHours() * 60 + now.getMinutes();
 
   function toMinutes(timeStr) {
+    if (!timeStr || !timeStr.includes(' ')) return -1;
     const [time, period] = timeStr.split(' ');
+    if (!time.includes(':')) return -1;
     let [h, m] = time.split(':').map(Number);
+    if (isNaN(h) || isNaN(m)) return -1;
     if (period === 'PM' && h !== 12) h += 12;
     if (period === 'AM' && h === 12) h = 0;
     return h * 60 + m;
   }
 
-  const future = schedule.filter(t => toMinutes(t.time) >= current);
+  const future = schedule.filter(t => {
+    const mins = toMinutes(t.time);
+    return mins >= current;
+  });
   return future.slice(0, n);
 }
 

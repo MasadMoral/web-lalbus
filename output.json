@@ -1,0 +1,3730 @@
+{
+  "responseCode": 200,
+  "responseStatus": "Success",
+  "responseMessage": "",
+  "responseDateTime": "2026-03-31 17:12:59",
+  "responseData": {
+    "bus_data": [
+      {
+        "id": 14,
+        "bus_name": "ঈশা খাঁ",
+        "bus_route_name": "কার্জন হল টু মোগড়াপাড়া",
+        "up_route_details": "মোগড়াপাড়া, মদনপুর , কাঁচপুর, চিটাগাংরোড, দশতলা, মৌচাক, সানারপাড় , সাইনবোর্ড, সাদ্দাম মার্কেট, মাতুয়াইল, রায়েরবাগ, শনির আখড়া,কাজলা, ঢাবি",
+        "down_route_details": null,
+        "updated_at": "2 মাস পূর্বে",
+        "trip_details_count": 22,
+        "trip_details": [
+          {
+            "id": 154,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "06:25:00",
+            "trip_from": "ভবেরচর",
+            "bus_number": "সিঙ্গেল ডেকার"
+          },
+          {
+            "id": 155,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "06:50:00",
+            "trip_from": "কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 331,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "07:10:00",
+            "trip_from": "মোগড়াপাড়া",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 212,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "07:30:00",
+            "trip_from": "মোগড়াপাড়া",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 224,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "07:40:00",
+            "trip_from": "ভবেরচর",
+            "bus_number": "সিঙ্গেল  (স্টাফ বাস)"
+          },
+          {
+            "id": 237,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "07:55:00",
+            "trip_from": "কাঁচপুর",
+            "bus_number": "ডাবল (স্টাফ বাস)"
+          },
+          {
+            "id": 225,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "08:20:00",
+            "trip_from": "কাঁচপুর",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 226,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "08:40:00",
+            "trip_from": "কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 321,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "09:00:00",
+            "trip_from": "মাতুয়াইল",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 228,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "09:30:00",
+            "trip_from": "মোগড়াপাড়া",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 317,
+            "bus_details_id": 14,
+            "up_or_down": 1,
+            "trip_time": "10:00:00",
+            "trip_from": "মাতুয়াইল",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 236,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "12:20:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "সিঙ্গেল ডেকার"
+          },
+          {
+            "id": 318,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "13:35:00",
+            "trip_from": "সিনেট - ভবেরচর",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 156,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "13:35:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 230,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "14:30:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 231,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "15:30:00",
+            "trip_from": "ভিসি চত্বর - মোগড়াপাড়া",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 238,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "16:10:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 233,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "16:40:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 232,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "17:05:00",
+            "trip_from": "সিনেট - ভবেরচর",
+            "bus_number": "সিঙ্গেল (স্টাফ বাস)"
+          },
+          {
+            "id": 234,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "17:10:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "ডাবল (স্টাফ বাস)"
+          },
+          {
+            "id": 235,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "17:35:00",
+            "trip_from": "ভিসি চত্বর - মোগড়াপাড়া",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 335,
+            "bus_details_id": 14,
+            "up_or_down": 2,
+            "trip_time": "20:00:00",
+            "trip_from": "ভিসি চত্বর - মোগড়াপাড়া",
+            "bus_number": "ডাবল"
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 154,
+            "bus_details_id": 14,
+            "trip_time": "06:25:00",
+            "trip_from": "ভবেরচর",
+            "bus_number": "সিঙ্গেল ডেকার"
+          },
+          {
+            "id": 155,
+            "bus_details_id": 14,
+            "trip_time": "06:50:00",
+            "trip_from": "কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 331,
+            "bus_details_id": 14,
+            "trip_time": "07:10:00",
+            "trip_from": "মোগড়াপাড়া",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 212,
+            "bus_details_id": 14,
+            "trip_time": "07:30:00",
+            "trip_from": "মোগড়াপাড়া",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 224,
+            "bus_details_id": 14,
+            "trip_time": "07:40:00",
+            "trip_from": "ভবেরচর",
+            "bus_number": "সিঙ্গেল  (স্টাফ বাস)"
+          },
+          {
+            "id": 237,
+            "bus_details_id": 14,
+            "trip_time": "07:55:00",
+            "trip_from": "কাঁচপুর",
+            "bus_number": "ডাবল (স্টাফ বাস)"
+          },
+          {
+            "id": 225,
+            "bus_details_id": 14,
+            "trip_time": "08:20:00",
+            "trip_from": "কাঁচপুর",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 226,
+            "bus_details_id": 14,
+            "trip_time": "08:40:00",
+            "trip_from": "কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 321,
+            "bus_details_id": 14,
+            "trip_time": "09:00:00",
+            "trip_from": "মাতুয়াইল",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 228,
+            "bus_details_id": 14,
+            "trip_time": "09:30:00",
+            "trip_from": "মোগড়াপাড়া",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 317,
+            "bus_details_id": 14,
+            "trip_time": "10:00:00",
+            "trip_from": "মাতুয়াইল",
+            "bus_number": "সিঙ্গেল"
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 236,
+            "bus_details_id": 14,
+            "trip_time": "12:20:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "সিঙ্গেল ডেকার"
+          },
+          {
+            "id": 318,
+            "bus_details_id": 14,
+            "trip_time": "13:35:00",
+            "trip_from": "সিনেট - ভবেরচর",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 156,
+            "bus_details_id": 14,
+            "trip_time": "13:35:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 230,
+            "bus_details_id": 14,
+            "trip_time": "14:30:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 231,
+            "bus_details_id": 14,
+            "trip_time": "15:30:00",
+            "trip_from": "ভিসি চত্বর - মোগড়াপাড়া",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 238,
+            "bus_details_id": 14,
+            "trip_time": "16:10:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "সিঙ্গেল"
+          },
+          {
+            "id": 233,
+            "bus_details_id": 14,
+            "trip_time": "16:40:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 232,
+            "bus_details_id": 14,
+            "trip_time": "17:05:00",
+            "trip_from": "সিনেট - ভবেরচর",
+            "bus_number": "সিঙ্গেল (স্টাফ বাস)"
+          },
+          {
+            "id": 234,
+            "bus_details_id": 14,
+            "trip_time": "17:10:00",
+            "trip_from": "ভিসি চত্বর - কাঁচপুর",
+            "bus_number": "ডাবল (স্টাফ বাস)"
+          },
+          {
+            "id": 235,
+            "bus_details_id": 14,
+            "trip_time": "17:35:00",
+            "trip_from": "ভিসি চত্বর - মোগড়াপাড়া",
+            "bus_number": "ডাবল"
+          },
+          {
+            "id": 335,
+            "bus_details_id": 14,
+            "trip_time": "20:00:00",
+            "trip_from": "ভিসি চত্বর - মোগড়াপাড়া",
+            "bus_number": "ডাবল"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "bus_name": "ক্ষণিকা",
+        "bus_route_name": "কার্জন হল টু টঙ্গী /গাজীপুর",
+        "up_route_details": "শিববাড়ি → চৌরাস্তা → বাইপাস → মালেকের বাড়ি → সাইনবোর্ড → বোর্ডবাজার → বড়বাড়ি → কলেজগেইট → স্টেশনরোড → টঙ্গী বাজার → আবদুল্লাহপুর → হাউজবিল্ডিং → আজমপুর → জসিমউদ্দিন → বিমানবন্দর → কাওলা → খিলক্ষেত → বিশ্বরোড → শ্যাওড়া → কুর্মিটোলা",
+        "down_route_details": "৪.৩০; ৫.১০; ৫.৪০ এর ডাউনট্রিপ কার্জন থেকে ছেড়ে টিএসসি এসে, টিএসসি থেকে শাহবাগ দিয়ে গাজীপুরের উদ্দেশ্যে যাত্রা করবে। এই ৩টি বাস ভিসি চত্ত্বর ঘুরবে না।",
+        "updated_at": "7 মাস পূর্বে",
+        "trip_details_count": 19,
+        "trip_details": [
+          {
+            "id": 45,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "06:10:00",
+            "trip_from": "শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 47,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "06:20:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 46,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "06:40:00",
+            "trip_from": "শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 49,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "06:40:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 48,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "07:00:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 329,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "07:10:00",
+            "trip_from": "শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 50,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "07:30:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 51,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "08:15:00",
+            "trip_from": "শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 325,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "08:15:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 52,
+            "bus_details_id": 3,
+            "up_or_down": 1,
+            "trip_time": "09:30:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 53,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "12:15:00",
+            "trip_from": "কার্জন -কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 54,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "13:10:00",
+            "trip_from": "কার্জন-শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 55,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "13:50:00",
+            "trip_from": "ভিসি চত্বর-কলেজগেট",
+            "bus_number": null
+          },
+          {
+            "id": 56,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "14:45:00",
+            "trip_from": "ভিসি চত্বর-শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 57,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "15:35:00",
+            "trip_from": "কার্জন-কলেজগেট",
+            "bus_number": null
+          },
+          {
+            "id": 216,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "16:00:00",
+            "trip_from": "ভিসি চত্বর-শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 58,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "16:30:00",
+            "trip_from": "ভিসি চত্বর-কলেজগেট",
+            "bus_number": null
+          },
+          {
+            "id": 59,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "17:10:00",
+            "trip_from": "কার্জন-শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 60,
+            "bus_details_id": 3,
+            "up_or_down": 2,
+            "trip_time": "17:40:00",
+            "trip_from": "কার্জন -কলেজগেইট",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 45,
+            "bus_details_id": 3,
+            "trip_time": "06:10:00",
+            "trip_from": "শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 47,
+            "bus_details_id": 3,
+            "trip_time": "06:20:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 46,
+            "bus_details_id": 3,
+            "trip_time": "06:40:00",
+            "trip_from": "শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 49,
+            "bus_details_id": 3,
+            "trip_time": "06:40:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 48,
+            "bus_details_id": 3,
+            "trip_time": "07:00:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 329,
+            "bus_details_id": 3,
+            "trip_time": "07:10:00",
+            "trip_from": "শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 50,
+            "bus_details_id": 3,
+            "trip_time": "07:30:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 51,
+            "bus_details_id": 3,
+            "trip_time": "08:15:00",
+            "trip_from": "শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 325,
+            "bus_details_id": 3,
+            "trip_time": "08:15:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 52,
+            "bus_details_id": 3,
+            "trip_time": "09:30:00",
+            "trip_from": "কলেজগেইট",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 53,
+            "bus_details_id": 3,
+            "trip_time": "12:15:00",
+            "trip_from": "কার্জন -কলেজগেইট",
+            "bus_number": null
+          },
+          {
+            "id": 54,
+            "bus_details_id": 3,
+            "trip_time": "13:10:00",
+            "trip_from": "কার্জন-শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 55,
+            "bus_details_id": 3,
+            "trip_time": "13:50:00",
+            "trip_from": "ভিসি চত্বর-কলেজগেট",
+            "bus_number": null
+          },
+          {
+            "id": 56,
+            "bus_details_id": 3,
+            "trip_time": "14:45:00",
+            "trip_from": "ভিসি চত্বর-শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 57,
+            "bus_details_id": 3,
+            "trip_time": "15:35:00",
+            "trip_from": "কার্জন-কলেজগেট",
+            "bus_number": null
+          },
+          {
+            "id": 216,
+            "bus_details_id": 3,
+            "trip_time": "16:00:00",
+            "trip_from": "ভিসি চত্বর-শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 58,
+            "bus_details_id": 3,
+            "trip_time": "16:30:00",
+            "trip_from": "ভিসি চত্বর-কলেজগেট",
+            "bus_number": null
+          },
+          {
+            "id": 59,
+            "bus_details_id": 3,
+            "trip_time": "17:10:00",
+            "trip_from": "কার্জন-শিববাড়ি",
+            "bus_number": null
+          },
+          {
+            "id": 60,
+            "bus_details_id": 3,
+            "trip_time": "17:40:00",
+            "trip_from": "কার্জন -কলেজগেইট",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "bus_name": "তরঙ্গ",
+        "bus_route_name": "কার্জন হল টু মোহাম্মদপুর",
+        "up_route_details": "আপ ট্রিপ:(স্টপেজ)\r\nডিআরএমসি( শুধু মাত্র ৭ টার বাস), মৈত্রী কাউন্টার, মোহাম্মদপুর বাসস্ট্যান্ড, একাডেমিয়া, ধানমন্ডি ২৭ যাত্রী ছাউনি, ধানমন্ডি ১৯( আবাহনি মাঠ), ধানমন্ডি ১৫(কাকলী), জিগাতলা(এক্সট্যাসি শোরুমের সামনে), নীলক্ষেত মোড়, কলা ভবন, টিএসসি, মোতাহার হোসেন ভবন, কার্জন হল।",
+        "down_route_details": "ডাউন ট্রিপ: (স্টপেজ)\r\nকার্জন হল, মোতাহার হোসেন ভবন, টিএসসি,ভিসি চত্ত্বর, জিগাতলা, ১৫ নাম্বার(বিএফসি), স্টার কাবাব, শংকর, গ্রাফিক্স কলেজ,  বাস স্ট্যান্ড, নূরজাহান রোড, সলিমউল্লাহ রোড, টাউনহল, আসাদ গেট।",
+        "updated_at": "3 মাস পূর্বে",
+        "trip_details_count": 16,
+        "trip_details": [
+          {
+            "id": 76,
+            "bus_details_id": 5,
+            "up_or_down": 1,
+            "trip_time": "07:10:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 77,
+            "bus_details_id": 5,
+            "up_or_down": 1,
+            "trip_time": "07:30:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 78,
+            "bus_details_id": 5,
+            "up_or_down": 1,
+            "trip_time": "08:00:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 79,
+            "bus_details_id": 5,
+            "up_or_down": 1,
+            "trip_time": "08:30:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 80,
+            "bus_details_id": 5,
+            "up_or_down": 1,
+            "trip_time": "09:10:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 322,
+            "bus_details_id": 5,
+            "up_or_down": 1,
+            "trip_time": "10:00:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 81,
+            "bus_details_id": 5,
+            "up_or_down": 1,
+            "trip_time": "10:10:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 82,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "12:30:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": "Single Deck"
+          },
+          {
+            "id": 83,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "13:15:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 84,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "14:00:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 85,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "15:00:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 86,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "15:35:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 87,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "16:10:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 88,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "16:40:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 217,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "17:10:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 319,
+            "bus_details_id": 5,
+            "up_or_down": 2,
+            "trip_time": "17:30:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 76,
+            "bus_details_id": 5,
+            "trip_time": "07:10:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 77,
+            "bus_details_id": 5,
+            "trip_time": "07:30:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 78,
+            "bus_details_id": 5,
+            "trip_time": "08:00:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 79,
+            "bus_details_id": 5,
+            "trip_time": "08:30:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 80,
+            "bus_details_id": 5,
+            "trip_time": "09:10:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 322,
+            "bus_details_id": 5,
+            "trip_time": "10:00:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          },
+          {
+            "id": 81,
+            "bus_details_id": 5,
+            "trip_time": "10:10:00",
+            "trip_from": "মোহাম্মদপুর ক্লাব পার্ক",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 82,
+            "bus_details_id": 5,
+            "trip_time": "12:30:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": "Single Deck"
+          },
+          {
+            "id": 83,
+            "bus_details_id": 5,
+            "trip_time": "13:15:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 84,
+            "bus_details_id": 5,
+            "trip_time": "14:00:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 85,
+            "bus_details_id": 5,
+            "trip_time": "15:00:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 86,
+            "bus_details_id": 5,
+            "trip_time": "15:35:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 87,
+            "bus_details_id": 5,
+            "trip_time": "16:10:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 88,
+            "bus_details_id": 5,
+            "trip_time": "16:40:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 217,
+            "bus_details_id": 5,
+            "trip_time": "17:10:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          },
+          {
+            "id": 319,
+            "bus_details_id": 5,
+            "trip_time": "17:30:00",
+            "trip_from": "Curzon Hall",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "bus_name": "চৈতালী",
+        "bus_route_name": "কার্জন হল টু মিরপুর -১২",
+        "up_route_details": "মিরপুর -১২,মিরপুর -১১.৩০,মিরপুর -৬,২,১ বাংলা কলেজ ,টেকনিক্যাল ,শ্যামলী ,মলচত্বর ,টিএসসি",
+        "down_route_details": "টিএসসি, মলচত্বর,শ্যামলী,টেকনিক্যাল,বাংলা কলেজ,মিরপুর -৬,২,১ মিরপুর -১১.৩০,মিরপুর -১২",
+        "updated_at": "22-Sep-2024",
+        "trip_details_count": 15,
+        "trip_details": [
+          {
+            "id": 61,
+            "bus_details_id": 2,
+            "up_or_down": 1,
+            "trip_time": "06:40:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 63,
+            "bus_details_id": 2,
+            "up_or_down": 1,
+            "trip_time": "07:10:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 64,
+            "bus_details_id": 2,
+            "up_or_down": 1,
+            "trip_time": "07:10:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 65,
+            "bus_details_id": 2,
+            "up_or_down": 1,
+            "trip_time": "07:50:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 67,
+            "bus_details_id": 2,
+            "up_or_down": 1,
+            "trip_time": "09:00:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 68,
+            "bus_details_id": 2,
+            "up_or_down": 1,
+            "trip_time": "09:00:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 323,
+            "bus_details_id": 2,
+            "up_or_down": 1,
+            "trip_time": "10:00:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 324,
+            "bus_details_id": 2,
+            "up_or_down": 1,
+            "trip_time": "10:00:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 69,
+            "bus_details_id": 2,
+            "up_or_down": 2,
+            "trip_time": "12:20:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 70,
+            "bus_details_id": 2,
+            "up_or_down": 2,
+            "trip_time": "13:30:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 71,
+            "bus_details_id": 2,
+            "up_or_down": 2,
+            "trip_time": "14:30:00",
+            "trip_from": "CURZON HALL",
+            "bus_number": null
+          },
+          {
+            "id": 72,
+            "bus_details_id": 2,
+            "up_or_down": 2,
+            "trip_time": "15:30:00",
+            "trip_from": "CURZON HALL",
+            "bus_number": null
+          },
+          {
+            "id": 73,
+            "bus_details_id": 2,
+            "up_or_down": 2,
+            "trip_time": "16:10:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 74,
+            "bus_details_id": 2,
+            "up_or_down": 2,
+            "trip_time": "17:00:00",
+            "trip_from": "CURZON HALL",
+            "bus_number": null
+          },
+          {
+            "id": 75,
+            "bus_details_id": 2,
+            "up_or_down": 2,
+            "trip_time": "17:30:00",
+            "trip_from": "CURZON HALL",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 61,
+            "bus_details_id": 2,
+            "trip_time": "06:40:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 63,
+            "bus_details_id": 2,
+            "trip_time": "07:10:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 64,
+            "bus_details_id": 2,
+            "trip_time": "07:10:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 65,
+            "bus_details_id": 2,
+            "trip_time": "07:50:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 67,
+            "bus_details_id": 2,
+            "trip_time": "09:00:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 68,
+            "bus_details_id": 2,
+            "trip_time": "09:00:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 323,
+            "bus_details_id": 2,
+            "trip_time": "10:00:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          },
+          {
+            "id": 324,
+            "bus_details_id": 2,
+            "trip_time": "10:00:00",
+            "trip_from": "হারুন মোল্লার মাঠ",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 69,
+            "bus_details_id": 2,
+            "trip_time": "12:20:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 70,
+            "bus_details_id": 2,
+            "trip_time": "13:30:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 71,
+            "bus_details_id": 2,
+            "trip_time": "14:30:00",
+            "trip_from": "CURZON HALL",
+            "bus_number": null
+          },
+          {
+            "id": 72,
+            "bus_details_id": 2,
+            "trip_time": "15:30:00",
+            "trip_from": "CURZON HALL",
+            "bus_number": null
+          },
+          {
+            "id": 73,
+            "bus_details_id": 2,
+            "trip_time": "16:10:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 74,
+            "bus_details_id": 2,
+            "trip_time": "17:00:00",
+            "trip_from": "CURZON HALL",
+            "bus_number": null
+          },
+          {
+            "id": 75,
+            "bus_details_id": 2,
+            "trip_time": "17:30:00",
+            "trip_from": "CURZON HALL",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "bus_name": "বৈশাখী",
+        "bus_route_name": "ঢাবি টু মিরপুর ১৪/কচুক্ষেত",
+        "up_route_details": "পুলপাড়, মিলি সুপার মার্কেট, ১৪ নম্বর, পুলিশ কলেজ, পুলিশ স্টাফ কলেজ, ১৩ নম্বর, পানির ট্যাংকি, ১০ নম্বর শাহজালাল ইসলামী ব্যাংকের পরে, কাজীপাড়া ওভারব্রীজ, শেওড়াপাড়া বাসস্ট্যান্ড (পুলিশ বক্সের পাশে), তালতলা, শেরে বাংলা কৃষি বিশ্ববিদ্যালয় সেকেন্ড গেট ।",
+        "down_route_details": "শেরে বাংলা কৃষি বিশ্ববিদ্যালয় সেকেন্ড গেট, তালতলা, শেওড়াপাড়া, শেওড়াপাড়া টেকনিক্যাল, কাজীপাড়া, আল হেলাল এর অপোজিট, ১০ নম্বর ওভার ব্রীজ, পানির ট্যাংকি, ১৩ নম্বর, পুলিশ স্টাফ কলেজ, পুলিশ কলেজ,১৪ নম্বর, পুলপাড় ।",
+        "updated_at": "2 মাস পূর্বে",
+        "trip_details_count": 15,
+        "trip_details": [
+          {
+            "id": 25,
+            "bus_details_id": 1,
+            "up_or_down": 1,
+            "trip_time": "06:40:00",
+            "trip_from": "কচুক্ষেত",
+            "bus_number": "5900"
+          },
+          {
+            "id": 26,
+            "bus_details_id": 1,
+            "up_or_down": 1,
+            "trip_time": "07:00:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "5817"
+          },
+          {
+            "id": 27,
+            "bus_details_id": 1,
+            "up_or_down": 1,
+            "trip_time": "07:30:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "5867"
+          },
+          {
+            "id": 28,
+            "bus_details_id": 1,
+            "up_or_down": 1,
+            "trip_time": "08:00:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "6231"
+          },
+          {
+            "id": 29,
+            "bus_details_id": 1,
+            "up_or_down": 1,
+            "trip_time": "08:45:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "6204"
+          },
+          {
+            "id": 314,
+            "bus_details_id": 1,
+            "up_or_down": 1,
+            "trip_time": "09:25:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "6264"
+          },
+          {
+            "id": 30,
+            "bus_details_id": 1,
+            "up_or_down": 1,
+            "trip_time": "10:00:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "5900"
+          },
+          {
+            "id": 31,
+            "bus_details_id": 1,
+            "up_or_down": 2,
+            "trip_time": "12:30:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "6231"
+          },
+          {
+            "id": 32,
+            "bus_details_id": 1,
+            "up_or_down": 2,
+            "trip_time": "13:15:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "5817"
+          },
+          {
+            "id": 33,
+            "bus_details_id": 1,
+            "up_or_down": 2,
+            "trip_time": "14:20:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "6204"
+          },
+          {
+            "id": 34,
+            "bus_details_id": 1,
+            "up_or_down": 2,
+            "trip_time": "15:30:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "5900"
+          },
+          {
+            "id": 35,
+            "bus_details_id": 1,
+            "up_or_down": 2,
+            "trip_time": "16:15:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "5866"
+          },
+          {
+            "id": 40,
+            "bus_details_id": 1,
+            "up_or_down": 2,
+            "trip_time": "16:45:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "5899"
+          },
+          {
+            "id": 36,
+            "bus_details_id": 1,
+            "up_or_down": 2,
+            "trip_time": "17:30:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "6231"
+          },
+          {
+            "id": 334,
+            "bus_details_id": 1,
+            "up_or_down": 2,
+            "trip_time": "20:00:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "6204"
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 25,
+            "bus_details_id": 1,
+            "trip_time": "06:40:00",
+            "trip_from": "কচুক্ষেত",
+            "bus_number": "5900"
+          },
+          {
+            "id": 26,
+            "bus_details_id": 1,
+            "trip_time": "07:00:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "5817"
+          },
+          {
+            "id": 27,
+            "bus_details_id": 1,
+            "trip_time": "07:30:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "5867"
+          },
+          {
+            "id": 28,
+            "bus_details_id": 1,
+            "trip_time": "08:00:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "6231"
+          },
+          {
+            "id": 29,
+            "bus_details_id": 1,
+            "trip_time": "08:45:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "6204"
+          },
+          {
+            "id": 314,
+            "bus_details_id": 1,
+            "trip_time": "09:25:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "6264"
+          },
+          {
+            "id": 30,
+            "bus_details_id": 1,
+            "trip_time": "10:00:00",
+            "trip_from": "মিলি সুপার মার্কেট",
+            "bus_number": "5900"
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 31,
+            "bus_details_id": 1,
+            "trip_time": "12:30:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "6231"
+          },
+          {
+            "id": 32,
+            "bus_details_id": 1,
+            "trip_time": "13:15:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "5817"
+          },
+          {
+            "id": 33,
+            "bus_details_id": 1,
+            "trip_time": "14:20:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "6204"
+          },
+          {
+            "id": 34,
+            "bus_details_id": 1,
+            "trip_time": "15:30:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "5900"
+          },
+          {
+            "id": 35,
+            "bus_details_id": 1,
+            "trip_time": "16:15:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "5866"
+          },
+          {
+            "id": 40,
+            "bus_details_id": 1,
+            "trip_time": "16:45:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "5899"
+          },
+          {
+            "id": 36,
+            "bus_details_id": 1,
+            "trip_time": "17:30:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "6231"
+          },
+          {
+            "id": 334,
+            "bus_details_id": 1,
+            "trip_time": "20:00:00",
+            "trip_from": "কার্জন হল",
+            "bus_number": "6204"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "bus_name": "শ্রাবন",
+        "bus_route_name": "কার্জন হল টু মুগদাপাড়া",
+        "up_route_details": "Maniknagar stadium - Mugdapara - Bouddho Mondir - Bashabo - Khilgaon Rail Gate - D.U.",
+        "down_route_details": "D.U. - Maniknagar - Mugdapara - Bouddho Mondir- Bashabo - Khilgaon Rail Gate",
+        "updated_at": "3 মাস পূর্বে",
+        "trip_details_count": 15,
+        "trip_details": [
+          {
+            "id": 102,
+            "bus_details_id": 8,
+            "up_or_down": 1,
+            "trip_time": "07:00:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 103,
+            "bus_details_id": 8,
+            "up_or_down": 1,
+            "trip_time": "07:20:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 104,
+            "bus_details_id": 8,
+            "up_or_down": 1,
+            "trip_time": "07:55:00",
+            "trip_from": "মুগদা গার্মেন্টস",
+            "bus_number": null
+          },
+          {
+            "id": 105,
+            "bus_details_id": 8,
+            "up_or_down": 1,
+            "trip_time": "08:15:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 106,
+            "bus_details_id": 8,
+            "up_or_down": 1,
+            "trip_time": "09:00:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 214,
+            "bus_details_id": 8,
+            "up_or_down": 1,
+            "trip_time": "10:00:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 332,
+            "bus_details_id": 8,
+            "up_or_down": 1,
+            "trip_time": "10:30:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 108,
+            "bus_details_id": 8,
+            "up_or_down": 2,
+            "trip_time": "12:15:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 109,
+            "bus_details_id": 8,
+            "up_or_down": 2,
+            "trip_time": "13:30:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 110,
+            "bus_details_id": 8,
+            "up_or_down": 2,
+            "trip_time": "14:20:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 333,
+            "bus_details_id": 8,
+            "up_or_down": 2,
+            "trip_time": "15:00:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 111,
+            "bus_details_id": 8,
+            "up_or_down": 2,
+            "trip_time": "15:40:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 112,
+            "bus_details_id": 8,
+            "up_or_down": 2,
+            "trip_time": "16:30:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 218,
+            "bus_details_id": 8,
+            "up_or_down": 2,
+            "trip_time": "17:00:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 113,
+            "bus_details_id": 8,
+            "up_or_down": 2,
+            "trip_time": "17:30:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 102,
+            "bus_details_id": 8,
+            "trip_time": "07:00:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 103,
+            "bus_details_id": 8,
+            "trip_time": "07:20:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 104,
+            "bus_details_id": 8,
+            "trip_time": "07:55:00",
+            "trip_from": "মুগদা গার্মেন্টস",
+            "bus_number": null
+          },
+          {
+            "id": 105,
+            "bus_details_id": 8,
+            "trip_time": "08:15:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 106,
+            "bus_details_id": 8,
+            "trip_time": "09:00:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 214,
+            "bus_details_id": 8,
+            "trip_time": "10:00:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          },
+          {
+            "id": 332,
+            "bus_details_id": 8,
+            "trip_time": "10:30:00",
+            "trip_from": "মুগদা স্টেডিয়াম",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 108,
+            "bus_details_id": 8,
+            "trip_time": "12:15:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 109,
+            "bus_details_id": 8,
+            "trip_time": "13:30:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 110,
+            "bus_details_id": 8,
+            "trip_time": "14:20:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 333,
+            "bus_details_id": 8,
+            "trip_time": "15:00:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 111,
+            "bus_details_id": 8,
+            "trip_time": "15:40:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 112,
+            "bus_details_id": 8,
+            "trip_time": "16:30:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 218,
+            "bus_details_id": 8,
+            "trip_time": "17:00:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 113,
+            "bus_details_id": 8,
+            "trip_time": "17:30:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "bus_name": "উল্লাস",
+        "bus_route_name": "কার্জন হল টু পোস্তগোলা",
+        "up_route_details": "পোস্তগোলা-জোরাইন -ধোলাইপাড়-নবীনগর -মীর হাজীরবাগ-দয়াগঞ্জ-টিকাটুলী-ঢাবি",
+        "down_route_details": "ঢাবি -টিকাটুলী(ফ্লাইওভার)-ধোলাইপাড়-পোস্তগোলা-জোরাইন-নবীনগর-মীর হাজীরবাগ-দয়াগঞ্জ",
+        "updated_at": "2 মাস পূর্বে",
+        "trip_details_count": 14,
+        "trip_details": [
+          {
+            "id": 121,
+            "bus_details_id": 10,
+            "up_or_down": 1,
+            "trip_time": "07:00:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 123,
+            "bus_details_id": 10,
+            "up_or_down": 1,
+            "trip_time": "08:00:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 122,
+            "bus_details_id": 10,
+            "up_or_down": 1,
+            "trip_time": "08:30:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 127,
+            "bus_details_id": 10,
+            "up_or_down": 1,
+            "trip_time": "09:00:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 128,
+            "bus_details_id": 10,
+            "up_or_down": 1,
+            "trip_time": "09:30:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 129,
+            "bus_details_id": 10,
+            "up_or_down": 1,
+            "trip_time": "10:00:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 124,
+            "bus_details_id": 10,
+            "up_or_down": 2,
+            "trip_time": "12:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 125,
+            "bus_details_id": 10,
+            "up_or_down": 2,
+            "trip_time": "13:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 126,
+            "bus_details_id": 10,
+            "up_or_down": 2,
+            "trip_time": "14:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 130,
+            "bus_details_id": 10,
+            "up_or_down": 2,
+            "trip_time": "15:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 131,
+            "bus_details_id": 10,
+            "up_or_down": 2,
+            "trip_time": "16:15:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 219,
+            "bus_details_id": 10,
+            "up_or_down": 2,
+            "trip_time": "17:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 220,
+            "bus_details_id": 10,
+            "up_or_down": 2,
+            "trip_time": "17:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 336,
+            "bus_details_id": 10,
+            "up_or_down": 2,
+            "trip_time": "19:30:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 121,
+            "bus_details_id": 10,
+            "trip_time": "07:00:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 123,
+            "bus_details_id": 10,
+            "trip_time": "08:00:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 122,
+            "bus_details_id": 10,
+            "trip_time": "08:30:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 127,
+            "bus_details_id": 10,
+            "trip_time": "09:00:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 128,
+            "bus_details_id": 10,
+            "trip_time": "09:30:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          },
+          {
+            "id": 129,
+            "bus_details_id": 10,
+            "trip_time": "10:00:00",
+            "trip_from": "পোস্তগোলা",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 124,
+            "bus_details_id": 10,
+            "trip_time": "12:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 125,
+            "bus_details_id": 10,
+            "trip_time": "13:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 126,
+            "bus_details_id": 10,
+            "trip_time": "14:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 130,
+            "bus_details_id": 10,
+            "trip_time": "15:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 131,
+            "bus_details_id": 10,
+            "trip_time": "16:15:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 219,
+            "bus_details_id": 10,
+            "trip_time": "17:10:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 220,
+            "bus_details_id": 10,
+            "trip_time": "17:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 336,
+            "bus_details_id": 10,
+            "trip_time": "19:30:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "bus_name": "কিঞ্চিৎ",
+        "bus_route_name": "কার্জন হল টু কমলাপুর",
+        "up_route_details": "Arambagh, Kamalapur, Ideal school & College gate, Rajarbagh, Malibagh, Mouchak & Wireless",
+        "down_route_details": null,
+        "updated_at": "3 মাস পূর্বে",
+        "trip_details_count": 11,
+        "trip_details": [
+          {
+            "id": 133,
+            "bus_details_id": 11,
+            "up_or_down": 1,
+            "trip_time": "07:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 134,
+            "bus_details_id": 11,
+            "up_or_down": 1,
+            "trip_time": "08:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 135,
+            "bus_details_id": 11,
+            "up_or_down": 1,
+            "trip_time": "08:50:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 136,
+            "bus_details_id": 11,
+            "up_or_down": 1,
+            "trip_time": "09:50:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 137,
+            "bus_details_id": 11,
+            "up_or_down": 2,
+            "trip_time": "12:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 138,
+            "bus_details_id": 11,
+            "up_or_down": 2,
+            "trip_time": "13:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 139,
+            "bus_details_id": 11,
+            "up_or_down": 2,
+            "trip_time": "14:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 140,
+            "bus_details_id": 11,
+            "up_or_down": 2,
+            "trip_time": "15:20:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 141,
+            "bus_details_id": 11,
+            "up_or_down": 2,
+            "trip_time": "16:20:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 330,
+            "bus_details_id": 11,
+            "up_or_down": 2,
+            "trip_time": "17:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 221,
+            "bus_details_id": 11,
+            "up_or_down": 2,
+            "trip_time": "17:30:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 133,
+            "bus_details_id": 11,
+            "trip_time": "07:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 134,
+            "bus_details_id": 11,
+            "trip_time": "08:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 135,
+            "bus_details_id": 11,
+            "trip_time": "08:50:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 136,
+            "bus_details_id": 11,
+            "trip_time": "09:50:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 137,
+            "bus_details_id": 11,
+            "trip_time": "12:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 138,
+            "bus_details_id": 11,
+            "trip_time": "13:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 139,
+            "bus_details_id": 11,
+            "trip_time": "14:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 140,
+            "bus_details_id": 11,
+            "trip_time": "15:20:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 141,
+            "bus_details_id": 11,
+            "trip_time": "16:20:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 330,
+            "bus_details_id": 11,
+            "trip_time": "17:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 221,
+            "bus_details_id": 11,
+            "trip_time": "17:30:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "bus_name": "বসন্ত",
+        "bus_route_name": "কার্জন হল টু রামপুরা",
+        "up_route_details": "আপ ট্রিপের স্টপেজ সমূহঃ রামপুরা টিভি সেন্টার, রামপুরা বাজার, হাজীপাড়া পেট্রোল পাম্প, মালিবাগ কমিউনিটি সেন্টার, খিলগাও পুলিশ ফাঁড়ি।",
+        "down_route_details": "ডাউন ট্রিপের স্টপেজ সমূহঃ ভিসি চত্ত্বর, কেন্দ্রীয় লাইব্রেরি, এনেক্স বিল্ডিং, দোয়েল চত্ত্বর(কার্জন)",
+        "updated_at": "3 মাস পূর্বে",
+        "trip_details_count": 11,
+        "trip_details": [
+          {
+            "id": 93,
+            "bus_details_id": 7,
+            "up_or_down": 1,
+            "trip_time": "07:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 94,
+            "bus_details_id": 7,
+            "up_or_down": 1,
+            "trip_time": "07:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 95,
+            "bus_details_id": 7,
+            "up_or_down": 1,
+            "trip_time": "08:20:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 222,
+            "bus_details_id": 7,
+            "up_or_down": 1,
+            "trip_time": "09:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 96,
+            "bus_details_id": 7,
+            "up_or_down": 1,
+            "trip_time": "10:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 97,
+            "bus_details_id": 7,
+            "up_or_down": 2,
+            "trip_time": "12:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 98,
+            "bus_details_id": 7,
+            "up_or_down": 2,
+            "trip_time": "13:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 99,
+            "bus_details_id": 7,
+            "up_or_down": 2,
+            "trip_time": "14:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 100,
+            "bus_details_id": 7,
+            "up_or_down": 2,
+            "trip_time": "15:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 101,
+            "bus_details_id": 7,
+            "up_or_down": 2,
+            "trip_time": "16:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 213,
+            "bus_details_id": 7,
+            "up_or_down": 2,
+            "trip_time": "17:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 93,
+            "bus_details_id": 7,
+            "trip_time": "07:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 94,
+            "bus_details_id": 7,
+            "trip_time": "07:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 95,
+            "bus_details_id": 7,
+            "trip_time": "08:20:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 222,
+            "bus_details_id": 7,
+            "trip_time": "09:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 96,
+            "bus_details_id": 7,
+            "trip_time": "10:00:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 97,
+            "bus_details_id": 7,
+            "trip_time": "12:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 98,
+            "bus_details_id": 7,
+            "trip_time": "13:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 99,
+            "bus_details_id": 7,
+            "trip_time": "14:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 100,
+            "bus_details_id": 7,
+            "trip_time": "15:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 101,
+            "bus_details_id": 7,
+            "trip_time": "16:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 213,
+            "bus_details_id": 7,
+            "trip_time": "17:35:00",
+            "trip_from": "ভিসি চত্বর",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "bus_name": "মৈত্রী",
+        "bus_route_name": "কার্জন হল টু  আদমজী আই. ই. টি স্কুল",
+        "up_route_details": "আই. ই. টি স্কুল ,পাঠানটোলি ,চৌধরী পাড়া ,২ নম্বর ,জাউলাপার ,আদমজী ,পাওয়ার হাউস ,সিদ্বিরগঞ্জ,চিটাগাং রোড ,গলাকাটা ,রানীমহল ,সারুলিয়া বাজার ,স্টাফকোয়াটার ,বাঁশেরপুল ,কোনাপাড়া,মাতুয়াইল-ভাংগা প্রেস - যাত্রাবাড়ী",
+        "down_route_details": null,
+        "updated_at": "8 মাস পূর্বে",
+        "trip_details_count": 11,
+        "trip_details": [
+          {
+            "id": 142,
+            "bus_details_id": 12,
+            "up_or_down": 1,
+            "trip_time": "06:25:00",
+            "trip_from": "আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 143,
+            "bus_details_id": 12,
+            "up_or_down": 1,
+            "trip_time": "07:10:00",
+            "trip_from": "আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 315,
+            "bus_details_id": 12,
+            "up_or_down": 1,
+            "trip_time": "08:00:00",
+            "trip_from": "রানীমহল",
+            "bus_number": "Staff bus"
+          },
+          {
+            "id": 144,
+            "bus_details_id": 12,
+            "up_or_down": 1,
+            "trip_time": "08:20:00",
+            "trip_from": "আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 286,
+            "bus_details_id": 12,
+            "up_or_down": 1,
+            "trip_time": "09:20:00",
+            "trip_from": "আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 320,
+            "bus_details_id": 12,
+            "up_or_down": 2,
+            "trip_time": "12:15:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 145,
+            "bus_details_id": 12,
+            "up_or_down": 2,
+            "trip_time": "13:15:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 287,
+            "bus_details_id": 12,
+            "up_or_down": 2,
+            "trip_time": "14:15:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 146,
+            "bus_details_id": 12,
+            "up_or_down": 2,
+            "trip_time": "15:35:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 316,
+            "bus_details_id": 12,
+            "up_or_down": 2,
+            "trip_time": "17:05:00",
+            "trip_from": "ভিসি চত্বর-রানীমহল",
+            "bus_number": "Staff bus"
+          },
+          {
+            "id": 147,
+            "bus_details_id": 12,
+            "up_or_down": 2,
+            "trip_time": "17:15:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": "Staff bus"
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 142,
+            "bus_details_id": 12,
+            "trip_time": "06:25:00",
+            "trip_from": "আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 143,
+            "bus_details_id": 12,
+            "trip_time": "07:10:00",
+            "trip_from": "আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 315,
+            "bus_details_id": 12,
+            "trip_time": "08:00:00",
+            "trip_from": "রানীমহল",
+            "bus_number": "Staff bus"
+          },
+          {
+            "id": 144,
+            "bus_details_id": 12,
+            "trip_time": "08:20:00",
+            "trip_from": "আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 286,
+            "bus_details_id": 12,
+            "trip_time": "09:20:00",
+            "trip_from": "আই. ই. টি স্কুল",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 320,
+            "bus_details_id": 12,
+            "trip_time": "12:15:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 145,
+            "bus_details_id": 12,
+            "trip_time": "13:15:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 287,
+            "bus_details_id": 12,
+            "trip_time": "14:15:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 146,
+            "bus_details_id": 12,
+            "trip_time": "15:35:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": null
+          },
+          {
+            "id": 316,
+            "bus_details_id": 12,
+            "trip_time": "17:05:00",
+            "trip_from": "ভিসি চত্বর-রানীমহল",
+            "bus_number": "Staff bus"
+          },
+          {
+            "id": 147,
+            "bus_details_id": 12,
+            "trip_time": "17:15:00",
+            "trip_from": "ভিসি চত্বর-আই. ই. টি স্কুল",
+            "bus_number": "Staff bus"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "bus_name": "আনন্দ",
+        "bus_route_name": "ঢাবি টু নারায়নগঞ্জ",
+        "up_route_details": "নন্দিরপাড়া,২ নম্বর গেট ,কালীরবাজার -চাষাঢ়া-জেলা প্রশাসন-রনি মার্কেট-স্টুডিয়াম -বুইগোর -জালকুড়ি -সাইনবোর্ড- কার্জন হল,-টিএসসি,-মল চত্ত্বর,",
+        "down_route_details": "মল চত্ত্বর, টিএসসি, কার্জন হল, সাইনবোর্ড, জালকুড়ি,বুইগোর,স্টুডিয়াম,মার্কেট,রনি মার্কেট-জেলা প্রশাসন-চাষাঢ়া-কালীরবাজার-২ নম্বর গেট-নন্দিরপাড়া",
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 8,
+        "trip_details": [
+          {
+            "id": 37,
+            "bus_details_id": 4,
+            "up_or_down": 1,
+            "trip_time": "06:50:00",
+            "trip_from": "NARAYANGONJ",
+            "bus_number": "4168"
+          },
+          {
+            "id": 38,
+            "bus_details_id": 4,
+            "up_or_down": 1,
+            "trip_time": "07:30:00",
+            "trip_from": "NARAYANGONJ",
+            "bus_number": null
+          },
+          {
+            "id": 41,
+            "bus_details_id": 4,
+            "up_or_down": 1,
+            "trip_time": "08:50:00",
+            "trip_from": "NARAYANGONJ",
+            "bus_number": "14-0064"
+          },
+          {
+            "id": 328,
+            "bus_details_id": 4,
+            "up_or_down": 1,
+            "trip_time": "09:50:00",
+            "trip_from": "NARAYANGONJ",
+            "bus_number": null
+          },
+          {
+            "id": 39,
+            "bus_details_id": 4,
+            "up_or_down": 2,
+            "trip_time": "13:05:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": "14-0064"
+          },
+          {
+            "id": 42,
+            "bus_details_id": 4,
+            "up_or_down": 2,
+            "trip_time": "14:30:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": "08-0035"
+          },
+          {
+            "id": 43,
+            "bus_details_id": 4,
+            "up_or_down": 2,
+            "trip_time": "16:05:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": "4168"
+          },
+          {
+            "id": 44,
+            "bus_details_id": 4,
+            "up_or_down": 2,
+            "trip_time": "17:10:00",
+            "trip_from": "ভিসি চত্ত্বর",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 37,
+            "bus_details_id": 4,
+            "trip_time": "06:50:00",
+            "trip_from": "NARAYANGONJ",
+            "bus_number": "4168"
+          },
+          {
+            "id": 38,
+            "bus_details_id": 4,
+            "trip_time": "07:30:00",
+            "trip_from": "NARAYANGONJ",
+            "bus_number": null
+          },
+          {
+            "id": 41,
+            "bus_details_id": 4,
+            "trip_time": "08:50:00",
+            "trip_from": "NARAYANGONJ",
+            "bus_number": "14-0064"
+          },
+          {
+            "id": 328,
+            "bus_details_id": 4,
+            "trip_time": "09:50:00",
+            "trip_from": "NARAYANGONJ",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 39,
+            "bus_details_id": 4,
+            "trip_time": "13:05:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": "14-0064"
+          },
+          {
+            "id": 42,
+            "bus_details_id": 4,
+            "trip_time": "14:30:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": "08-0035"
+          },
+          {
+            "id": 43,
+            "bus_details_id": 4,
+            "trip_time": "16:05:00",
+            "trip_from": "মল চত্ত্বর",
+            "bus_number": "4168"
+          },
+          {
+            "id": 44,
+            "bus_details_id": 4,
+            "trip_time": "17:10:00",
+            "trip_from": "ভিসি চত্ত্বর",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "bus_name": "ফাল্গুনী",
+        "bus_route_name": "কার্জন হল টু বাড্ডা ,গুলশান",
+        "up_route_details": "১. লিংক রোড,হোসেন মার্কেট,উত্তর বাড্ডা,সুবাস্তু,শাহজাদপুর,বাঁশতলা,নতুন বাজার,গুলশান ১,টিবি গেইট,ওয়্যারলেস,আমতলী,মহাখালী,নাবিস্কো\r\n২. নতুনবাজার, বাঁশতলা,শাহজাদপুর,সুবাস্তু,উত্তর বাড্ডা,হোসেন মার্কেট,মধ্য বাড্ডা(+)লিংক রোড,গুদারাঘাট,গুলশান ১,টিবি গেইট,ওয়্যারলেস,আমতলী,মহাখালী,নাবিস্কো",
+        "down_route_details": null,
+        "updated_at": "22-Sep-2024",
+        "trip_details_count": 7,
+        "trip_details": [
+          {
+            "id": 115,
+            "bus_details_id": 9,
+            "up_or_down": 1,
+            "trip_time": "06:40:00",
+            "trip_from": "লিংক রোড",
+            "bus_number": null
+          },
+          {
+            "id": 116,
+            "bus_details_id": 9,
+            "up_or_down": 1,
+            "trip_time": "07:40:00",
+            "trip_from": "নতুনবাজার",
+            "bus_number": null
+          },
+          {
+            "id": 117,
+            "bus_details_id": 9,
+            "up_or_down": 1,
+            "trip_time": "08:40:00",
+            "trip_from": "নতুনবাজার",
+            "bus_number": null
+          },
+          {
+            "id": 118,
+            "bus_details_id": 9,
+            "up_or_down": 2,
+            "trip_time": "13:10:00",
+            "trip_from": "মলচত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 119,
+            "bus_details_id": 9,
+            "up_or_down": 2,
+            "trip_time": "14:30:00",
+            "trip_from": "মলচত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 120,
+            "bus_details_id": 9,
+            "up_or_down": 2,
+            "trip_time": "16:10:00",
+            "trip_from": "মলচত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 223,
+            "bus_details_id": 9,
+            "up_or_down": 2,
+            "trip_time": "17:10:00",
+            "trip_from": "মলচত্বর",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 115,
+            "bus_details_id": 9,
+            "trip_time": "06:40:00",
+            "trip_from": "লিংক রোড",
+            "bus_number": null
+          },
+          {
+            "id": 116,
+            "bus_details_id": 9,
+            "trip_time": "07:40:00",
+            "trip_from": "নতুনবাজার",
+            "bus_number": null
+          },
+          {
+            "id": 117,
+            "bus_details_id": 9,
+            "trip_time": "08:40:00",
+            "trip_from": "নতুনবাজার",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 118,
+            "bus_details_id": 9,
+            "trip_time": "13:10:00",
+            "trip_from": "মলচত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 119,
+            "bus_details_id": 9,
+            "trip_time": "14:30:00",
+            "trip_from": "মলচত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 120,
+            "bus_details_id": 9,
+            "trip_time": "16:10:00",
+            "trip_from": "মলচত্বর",
+            "bus_number": null
+          },
+          {
+            "id": 223,
+            "bus_details_id": 9,
+            "trip_time": "17:10:00",
+            "trip_from": "মলচত্বর",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "bus_name": "হেমন্ত",
+        "bus_route_name": "কার্জন হল টু সাভার /নবীনগর",
+        "up_route_details": "সাভার /নবীনগর-নবীনগর জয়া -বিশমাইল-সি ম বি -সাভার স্ট্যান্ড -খানা স্ট্যান্ড-গেন্ডা -ফুলবাড়ীয়া -ওলাইন -গাবতলী -ক্যাম্পাস",
+        "down_route_details": "ক্যাম্পাস-গাবতলী -ওলাইন-ফুলবাড়ীয়া -গেন্ডা- খানা স্ট্যান্ড-সাভার স্ট্যান্ড-সি ম বি -বিশমাইল-নবীনগর জয়া-সাভার /নবীনগর",
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 7,
+        "trip_details": [
+          {
+            "id": 206,
+            "bus_details_id": 22,
+            "up_or_down": 1,
+            "trip_time": "06:10:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 207,
+            "bus_details_id": 22,
+            "up_or_down": 1,
+            "trip_time": "07:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 208,
+            "bus_details_id": 22,
+            "up_or_down": 1,
+            "trip_time": "07:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 327,
+            "bus_details_id": 22,
+            "up_or_down": 1,
+            "trip_time": "08:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 209,
+            "bus_details_id": 22,
+            "up_or_down": 2,
+            "trip_time": "13:10:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 210,
+            "bus_details_id": 22,
+            "up_or_down": 2,
+            "trip_time": "15:10:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 211,
+            "bus_details_id": 22,
+            "up_or_down": 2,
+            "trip_time": "17:00:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 206,
+            "bus_details_id": 22,
+            "trip_time": "06:10:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 207,
+            "bus_details_id": 22,
+            "trip_time": "07:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 208,
+            "bus_details_id": 22,
+            "trip_time": "07:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 327,
+            "bus_details_id": 22,
+            "trip_time": "08:30:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 209,
+            "bus_details_id": 22,
+            "trip_time": "13:10:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 210,
+            "bus_details_id": 22,
+            "trip_time": "15:10:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 211,
+            "bus_details_id": 22,
+            "trip_time": "17:00:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "bus_name": "উয়ারী-বটেশ্বর",
+        "bus_route_name": "কার্জন হল টু বারৈচা",
+        "up_route_details": "ইটাখোলা-বেলানগর -সাহেপ্রতাপ -পাঁচ দোনা -মাদবদী -পুরিন্দা -গাউসিয়া ব্রীজ আর গোড়া -বরফা -বরাবর -ক্যাম্পাস",
+        "down_route_details": "ক্যাম্পাস -বরাবর-বরফা-গাউসিয়া ব্রীজ আর গোড়া-পুরিন্দা -মাদবদী-পাঁচ দোনা-সাহেপ্রতাপ-বেলানগর -ইটাখোলা",
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 4,
+        "trip_details": [
+          {
+            "id": 89,
+            "bus_details_id": 6,
+            "up_or_down": 1,
+            "trip_time": "06:20:00",
+            "trip_from": null,
+            "bus_number": "11-0061"
+          },
+          {
+            "id": 90,
+            "bus_details_id": 6,
+            "up_or_down": 1,
+            "trip_time": "06:30:00",
+            "trip_from": "বারৈচা",
+            "bus_number": null
+          },
+          {
+            "id": 91,
+            "bus_details_id": 6,
+            "up_or_down": 2,
+            "trip_time": "14:00:00",
+            "trip_from": "MOLL CHATTAR",
+            "bus_number": null
+          },
+          {
+            "id": 92,
+            "bus_details_id": 6,
+            "up_or_down": 2,
+            "trip_time": "16:45:00",
+            "trip_from": "MOLL CHATTAR",
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 89,
+            "bus_details_id": 6,
+            "trip_time": "06:20:00",
+            "trip_from": null,
+            "bus_number": "11-0061"
+          },
+          {
+            "id": 90,
+            "bus_details_id": 6,
+            "trip_time": "06:30:00",
+            "trip_from": "বারৈচা",
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 91,
+            "bus_details_id": 6,
+            "trip_time": "14:00:00",
+            "trip_from": "MOLL CHATTAR",
+            "bus_number": null
+          },
+          {
+            "id": 92,
+            "bus_details_id": 6,
+            "trip_time": "16:45:00",
+            "trip_from": "MOLL CHATTAR",
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "bus_name": "ইদ্রাকপুর",
+        "bus_route_name": "ঢাকা বিশ্ববিদ্যালয় - ইদ্রাকপুর (মুন্সিগঞ্জ)",
+        "up_route_details": "ইদ্রাকপুর-মুক্তারপুর-পঞ্চবটি-গোরস্তান -চাষাঢ়া -উপজেলা -শিবু মার্কেট -স্টুডিয়াম -জালকুড়ি -বুইগড় -সাইনবোর্ড -মলচত্বর",
+        "down_route_details": "মলচত্বর-সাইনবোর্ড-বুইগড়-জালকুড়ি-স্টুডিয়াম--শিবু মার্কেট-উপজেলা-চাষাঢ়া-গোরস্তান-পঞ্চবটি-মুক্তারপুর-ইদ্রাকপুর",
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 2,
+        "trip_details": [
+          {
+            "id": 168,
+            "bus_details_id": 18,
+            "up_or_down": 1,
+            "trip_time": "06:35:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 169,
+            "bus_details_id": 18,
+            "up_or_down": 2,
+            "trip_time": "15:10:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 168,
+            "bus_details_id": 18,
+            "trip_time": "06:35:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 169,
+            "bus_details_id": 18,
+            "trip_time": "15:10:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "bus_name": "ঢাকা বিশ্ববিদ্যালয় - মাওয়া (বিক্রমপুর)",
+        "bus_route_name": null,
+        "up_route_details": "মাওযা ঘাট - মাওযা চৌরাস্তা -সমাসপুর -শ্রী নগর ফেরিঘাট -শ্রী নগর ভেজগাঁও -সন বাড়ি -ষোলো ঘর -হাসাড়া স্কুল গেট -হাসাড়া কলেজ গেট -নিমতলী -কয়ছাপাড়া কলেজ গেট -কয়ছাপাড়া টোল প্লাজা -আব্দুল্লাপুর -রাজেন্দ্রপুর -চলকটিয়া চৌরাস্তা -কদমতলী চৌরাস্তা -বাবু বাজার ব্রীজ -তাঁতী বাজার-ক্যাম্পাস",
+        "down_route_details": "ক্যাম্পাস-রাজেন্দ্রপুর-আব্দুল্লাপুর-কয়ছাপাড়া টোল প্লাজা-কয়ছাপাড়া কলেজ গেট-নিমতলী-হাসাড়া কলেজ গেট-হাসাড়া স্কুল গেট-ষোলো ঘর-সন বাড়ি-শ্রী নগর ভেজগাঁও-শ্রী নগর ফেরিঘাট-সমাসপুর-মাওযা চৌরাস্তা-মাওযা ঘাট",
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 2,
+        "trip_details": [
+          {
+            "id": 166,
+            "bus_details_id": 17,
+            "up_or_down": 1,
+            "trip_time": "06:35:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 167,
+            "bus_details_id": 17,
+            "up_or_down": 2,
+            "trip_time": "15:10:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 166,
+            "bus_details_id": 17,
+            "trip_time": "06:35:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 167,
+            "bus_details_id": 17,
+            "trip_time": "15:10:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "bus_name": "কার্জন হল টু বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব হল",
+        "bus_route_name": "কার্জন হল টু বঙ্গমাতা শেখ ফজিলাতুন্নেছা মুজিব হল",
+        "up_route_details": null,
+        "down_route_details": null,
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 15,
+        "trip_details": [
+          {
+            "id": 184,
+            "bus_details_id": 20,
+            "up_or_down": 1,
+            "trip_time": "07:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 185,
+            "bus_details_id": 20,
+            "up_or_down": 1,
+            "trip_time": "08:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 186,
+            "bus_details_id": 20,
+            "up_or_down": 1,
+            "trip_time": "08:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 187,
+            "bus_details_id": 20,
+            "up_or_down": 1,
+            "trip_time": "09:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 188,
+            "bus_details_id": 20,
+            "up_or_down": 1,
+            "trip_time": "09:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 189,
+            "bus_details_id": 20,
+            "up_or_down": 1,
+            "trip_time": "10:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 190,
+            "bus_details_id": 20,
+            "up_or_down": 1,
+            "trip_time": "10:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 191,
+            "bus_details_id": 20,
+            "up_or_down": 1,
+            "trip_time": "11:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 192,
+            "bus_details_id": 20,
+            "up_or_down": 2,
+            "trip_time": "12:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 193,
+            "bus_details_id": 20,
+            "up_or_down": 2,
+            "trip_time": "12:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 194,
+            "bus_details_id": 20,
+            "up_or_down": 2,
+            "trip_time": "13:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 195,
+            "bus_details_id": 20,
+            "up_or_down": 2,
+            "trip_time": "13:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 196,
+            "bus_details_id": 20,
+            "up_or_down": 2,
+            "trip_time": "14:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 197,
+            "bus_details_id": 20,
+            "up_or_down": 2,
+            "trip_time": "15:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 290,
+            "bus_details_id": 20,
+            "up_or_down": 2,
+            "trip_time": "16:30:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 184,
+            "bus_details_id": 20,
+            "trip_time": "07:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 185,
+            "bus_details_id": 20,
+            "trip_time": "08:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 186,
+            "bus_details_id": 20,
+            "trip_time": "08:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 187,
+            "bus_details_id": 20,
+            "trip_time": "09:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 188,
+            "bus_details_id": 20,
+            "trip_time": "09:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 189,
+            "bus_details_id": 20,
+            "trip_time": "10:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 190,
+            "bus_details_id": 20,
+            "trip_time": "10:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 191,
+            "bus_details_id": 20,
+            "trip_time": "11:15:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 192,
+            "bus_details_id": 20,
+            "trip_time": "12:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 193,
+            "bus_details_id": 20,
+            "trip_time": "12:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 194,
+            "bus_details_id": 20,
+            "trip_time": "13:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 195,
+            "bus_details_id": 20,
+            "trip_time": "13:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 196,
+            "bus_details_id": 20,
+            "trip_time": "14:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 197,
+            "bus_details_id": 20,
+            "trip_time": "15:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 290,
+            "bus_details_id": 20,
+            "trip_time": "16:30:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "bus_name": "কার্জন হল টু কুয়েত মৈত্রী হল",
+        "bus_route_name": "কার্জন হল টু কুয়েত মৈত্রী হল",
+        "up_route_details": "কার্জন হল -মোতাহার হোসেন ভবন -রোকেয়া হল- কলা ভবন-ভি সি চত্ত্বর-কুয়েত  মৈত্রী হল",
+        "down_route_details": "কুয়েত  মৈত্রী হল-ভি সি চত্ত্বর-কলা ভবন-রোকেয়া হল-মোতাহার হোসেন ভবন-কার্জন হল",
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 14,
+        "trip_details": [
+          {
+            "id": 170,
+            "bus_details_id": 19,
+            "up_or_down": 1,
+            "trip_time": "07:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 171,
+            "bus_details_id": 19,
+            "up_or_down": 1,
+            "trip_time": "08:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 172,
+            "bus_details_id": 19,
+            "up_or_down": 1,
+            "trip_time": "08:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 173,
+            "bus_details_id": 19,
+            "up_or_down": 1,
+            "trip_time": "09:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 174,
+            "bus_details_id": 19,
+            "up_or_down": 1,
+            "trip_time": "09:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 175,
+            "bus_details_id": 19,
+            "up_or_down": 1,
+            "trip_time": "10:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 176,
+            "bus_details_id": 19,
+            "up_or_down": 1,
+            "trip_time": "10:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 177,
+            "bus_details_id": 19,
+            "up_or_down": 2,
+            "trip_time": "12:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 178,
+            "bus_details_id": 19,
+            "up_or_down": 2,
+            "trip_time": "12:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 179,
+            "bus_details_id": 19,
+            "up_or_down": 2,
+            "trip_time": "13:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 180,
+            "bus_details_id": 19,
+            "up_or_down": 2,
+            "trip_time": "13:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 181,
+            "bus_details_id": 19,
+            "up_or_down": 2,
+            "trip_time": "14:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 182,
+            "bus_details_id": 19,
+            "up_or_down": 2,
+            "trip_time": "15:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 183,
+            "bus_details_id": 19,
+            "up_or_down": 2,
+            "trip_time": "17:00:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 170,
+            "bus_details_id": 19,
+            "trip_time": "07:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 171,
+            "bus_details_id": 19,
+            "trip_time": "08:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 172,
+            "bus_details_id": 19,
+            "trip_time": "08:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 173,
+            "bus_details_id": 19,
+            "trip_time": "09:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 174,
+            "bus_details_id": 19,
+            "trip_time": "09:40:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 175,
+            "bus_details_id": 19,
+            "trip_time": "10:15:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 176,
+            "bus_details_id": 19,
+            "trip_time": "10:40:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 177,
+            "bus_details_id": 19,
+            "trip_time": "12:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 178,
+            "bus_details_id": 19,
+            "trip_time": "12:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 179,
+            "bus_details_id": 19,
+            "trip_time": "13:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 180,
+            "bus_details_id": 19,
+            "trip_time": "13:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 181,
+            "bus_details_id": 19,
+            "trip_time": "14:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 182,
+            "bus_details_id": 19,
+            "trip_time": "15:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 183,
+            "bus_details_id": 19,
+            "trip_time": "17:00:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "bus_name": "কবি সুফিয়া কামাল হল - কলা ভবন",
+        "bus_route_name": "কবি সুফিয়া কামাল হল - কলা ভবন",
+        "up_route_details": "কার্জন হল -মোতাহার হোসেন ভবন -রোকেয়া হল- কলা ভবন-ভি সি চত্ত্বর",
+        "down_route_details": "ভি সি চত্ত্বর -কলা ভবন-রোকেয়া হল-মোতাহার হোসেন ভবন-কার্জন হল",
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 9,
+        "trip_details": [
+          {
+            "id": 198,
+            "bus_details_id": 21,
+            "up_or_down": 1,
+            "trip_time": "07:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 199,
+            "bus_details_id": 21,
+            "up_or_down": 1,
+            "trip_time": "08:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 200,
+            "bus_details_id": 21,
+            "up_or_down": 1,
+            "trip_time": "09:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 201,
+            "bus_details_id": 21,
+            "up_or_down": 1,
+            "trip_time": "10:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 203,
+            "bus_details_id": 21,
+            "up_or_down": 2,
+            "trip_time": "13:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 204,
+            "bus_details_id": 21,
+            "up_or_down": 2,
+            "trip_time": "14:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 205,
+            "bus_details_id": 21,
+            "up_or_down": 2,
+            "trip_time": "15:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 202,
+            "bus_details_id": 21,
+            "up_or_down": 2,
+            "trip_time": "16:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 326,
+            "bus_details_id": 21,
+            "up_or_down": 2,
+            "trip_time": "17:20:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 198,
+            "bus_details_id": 21,
+            "trip_time": "07:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 199,
+            "bus_details_id": 21,
+            "trip_time": "08:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 200,
+            "bus_details_id": 21,
+            "trip_time": "09:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 201,
+            "bus_details_id": 21,
+            "trip_time": "10:30:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 203,
+            "bus_details_id": 21,
+            "trip_time": "13:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 204,
+            "bus_details_id": 21,
+            "trip_time": "14:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 205,
+            "bus_details_id": 21,
+            "trip_time": "15:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 202,
+            "bus_details_id": 21,
+            "trip_time": "16:30:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 326,
+            "bus_details_id": 21,
+            "trip_time": "17:20:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "bus_name": "কার্জন হল টু লেদার  ইঞ্জিনিয়ারিং টেকনোলজি ইনস্টিটিউট",
+        "bus_route_name": "কার্জন হল টু লেদার  ইঞ্জিনিয়ারিং টেকনোলজি ইনস্টিটিউট",
+        "up_route_details": "লেদার  ইঞ্জিনিয়ারিং টেকনোলজি ইনস্টিটিউট-ভি সি চত্ত্বর-টি এস সি -কার্জন হল",
+        "down_route_details": "ভি সি চত্ত্বর-লেদার  ইঞ্জিনিয়ারিং টেকনোলজি ইনস্টিটিউট",
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 6,
+        "trip_details": [
+          {
+            "id": 158,
+            "bus_details_id": 15,
+            "up_or_down": 1,
+            "trip_time": "07:45:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 159,
+            "bus_details_id": 15,
+            "up_or_down": 1,
+            "trip_time": "08:45:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 288,
+            "bus_details_id": 15,
+            "up_or_down": 1,
+            "trip_time": "09:50:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 160,
+            "bus_details_id": 15,
+            "up_or_down": 2,
+            "trip_time": "13:10:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 161,
+            "bus_details_id": 15,
+            "up_or_down": 2,
+            "trip_time": "15:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 289,
+            "bus_details_id": 15,
+            "up_or_down": 2,
+            "trip_time": "16:20:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 158,
+            "bus_details_id": 15,
+            "trip_time": "07:45:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 159,
+            "bus_details_id": 15,
+            "trip_time": "08:45:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 288,
+            "bus_details_id": 15,
+            "trip_time": "09:50:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 160,
+            "bus_details_id": 15,
+            "trip_time": "13:10:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 161,
+            "bus_details_id": 15,
+            "trip_time": "15:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 289,
+            "bus_details_id": 15,
+            "trip_time": "16:20:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "bus_name": "আই বি এ  হোস্টেল  টু ক্যাম্পাস",
+        "bus_route_name": "আই বি এ  হোস্টেল  টু ক্যাম্পাস",
+        "up_route_details": null,
+        "down_route_details": null,
+        "updated_at": "06-Oct-2024",
+        "trip_details_count": 4,
+        "trip_details": [
+          {
+            "id": 162,
+            "bus_details_id": 16,
+            "up_or_down": 1,
+            "trip_time": "08:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 163,
+            "bus_details_id": 16,
+            "up_or_down": 1,
+            "trip_time": "09:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 164,
+            "bus_details_id": 16,
+            "up_or_down": 2,
+            "trip_time": "13:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 165,
+            "bus_details_id": 16,
+            "up_or_down": 2,
+            "trip_time": "16:00:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "up_trip_details": [
+          {
+            "id": 162,
+            "bus_details_id": 16,
+            "trip_time": "08:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 163,
+            "bus_details_id": 16,
+            "trip_time": "09:00:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ],
+        "down_trip_details": [
+          {
+            "id": 164,
+            "bus_details_id": 16,
+            "trip_time": "13:00:00",
+            "trip_from": null,
+            "bus_number": null
+          },
+          {
+            "id": 165,
+            "bus_details_id": 16,
+            "trip_time": "16:00:00",
+            "trip_from": null,
+            "bus_number": null
+          }
+        ]
+      }
+    ]
+  }
+}
