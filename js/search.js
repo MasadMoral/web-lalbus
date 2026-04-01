@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="search-empty">
           <div class="big">🔍</div>
           <h3>No results found</h3>
-          <p>Try searching for a stop name (e.g. "Mirpur") or a route (e.g. "Choitali")</p>
+          <p>কোনো স্টপেজের নাম (যেমন "মিরপুর") বা রুটের নাম (যেমন "চৈতালী") লিখে চেষ্টা করুন</p>
         </div>`;
       return;
     }
