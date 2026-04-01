@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   function doSearch() {
-    let q = input.value.trim().toLowerCase();
+    let q = input.value.trim().toLowerCase().normalize('NFC');
 
     if (q.length < 2) {
       resultsWrap.style.display = 'none';
@@ -23,17 +23,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     resultsWrap.style.display = 'block';
 
-    // Search routes by name (case-insensitive for safety, though primarily Bangla)
-    const routeMatches = DU_ROUTES.filter(r =>
-      r.nameEn.toLowerCase().includes(q) || r.nameBn.toLowerCase().includes(q)
-    );
+    // Search routes by name
+    const routeMatches = DU_ROUTES.filter(r => {
+      const nameEn = (r.nameEn || "").toLowerCase().normalize('NFC');
+      const nameBn = (r.nameBn || "").toLowerCase().normalize('NFC');
+      return nameEn.includes(q) || nameBn.includes(q);
+    });
 
     // Search routes by stop name
     const stopMatches = [];
     DU_ROUTES.forEach(r => {
-      const matchingStops = r.stops.filter(s => 
-        s.toLowerCase().includes(q)
-      );
+      const matchingStops = (r.stops || []).filter(s => {
+        return (s || "").toLowerCase().normalize('NFC').includes(q);
+      });
       if (matchingStops.length && !routeMatches.includes(r)) {
         stopMatches.push({ route: r, matchingStops });
       }
